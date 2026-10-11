@@ -19,6 +19,7 @@ function shuffle() {
         playcards.splice(randomIndex, 1)
 
     }
+    // i am learning version control 
 }
 function addButtons() {
     for (let index = 0; index < looplength; index++) {
